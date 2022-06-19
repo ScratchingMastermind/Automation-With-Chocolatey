@@ -1,4 +1,4 @@
-g# List of Packages
+# List of Packages
 $packagesList = "The,name,of,the,packages,goes,here,seperated,with,commas"
 
 # Checking to see if Chocolatey is installed.
