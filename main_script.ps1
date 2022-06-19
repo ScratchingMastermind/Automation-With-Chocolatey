@@ -1,4 +1,4 @@
-# List of Packages
+g# List of Packages
 $packagesList = "The,name,of,the,packages,goes,here,seperated,with,commas"
 
 # Checking to see if Chocolatey is installed.
@@ -8,7 +8,7 @@ try{
 }
 catch{
     Write-Host "Chocolatey not installed. Installing now..." -ForegroundColor Red
-    #iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+    iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 }
 
 Write-Host "Cleaning package list" -ForegroundColor Magenta
