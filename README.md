@@ -28,4 +28,4 @@ This procedure is rather cumbersome. We no longer need to waste time looking for
 
 # Bonus Script
 
-The `bonus.ps1` uses Github API to run this Repo remotely. Extending the capabilities of `main_script.ps1`. For more information refer to the [Automating Programs Installations with Chocolatey - Part 2](https://passivetechie.com/programs-install-with-chocolatey-part-2/)
+The `bonus.ps1` uses Github API to run this Repo remotely. Extending the capabilities of `main_script.ps1`. For more information refer to the [Automating Programs Installations with Chocolatey - Part 2](https://passivetechie.com/projects/programs-install-with-chocolatey-part-2/)
